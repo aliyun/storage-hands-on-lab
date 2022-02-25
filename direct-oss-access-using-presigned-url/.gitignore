@@ -1,0 +1,17 @@
+### .vscode 
+
+.vscode/
+
+### Terraform ###
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
+
+### code
+server-code/**
+!server-code/index.js
+
+##ak
+
+.aliyun/
